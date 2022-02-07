@@ -75,6 +75,7 @@ class UserProfile(models.Model):
         User,
         on_delete=models.CASCADE,
         primary_key=True,
+        related_name='profiles'
     )
     first_name = models.CharField(max_length=100)
     last_name = models.CharField(max_length=100)
