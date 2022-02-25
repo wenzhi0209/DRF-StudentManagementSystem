@@ -1,4 +1,4 @@
-# Django Concept StudentManagementSystem
+# Django Concept Student Management System
 A simple student management system based on the Django Rest Framework
 
 ## Relevant knowledge point
